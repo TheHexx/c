@@ -7,6 +7,6 @@ void main(int argc, char* argv[]) {
   }
   else 
   {
-    printf("Usage : main <name>\n");
+    printf("Usage : hello <name>\n");
   }
 }
