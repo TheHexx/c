@@ -1,2 +1,2 @@
-hello : hello.c
-	gcc hello.c -o hello
+convert : convert.c
+	gcc convert.c -o convert
